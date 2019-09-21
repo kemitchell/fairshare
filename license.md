@@ -2,9 +2,11 @@
 
 Development Draft
 
+Giving the License: {{{name}}}
+
 ## Purpose
 
-This license gives everyone as much permission to work with this software as possible, while protecting contributors from liability and requiring fair compensation when their work is commercialized.
+This license gives everyone as much permission to work with this software as possible, while protecting the person or legal entity giving this license from liability and requiring fair compensation when their work is commercialized.
 
 ## Acceptance
 
@@ -12,7 +14,7 @@ In order to receive this license, you must agree to its rules.  The rules of thi
 
 ## Commercialization
 
-This license is free-of-charge while your use of this software has contributed to less than 1,000,000 USD (2019) total revenue in any single year-long period for your company.  When you reach that threshold, contributors will license this software for continued use on fair, reasonable, and nondiscriminatory terms.  If contributors are not available to grant such a license, or refuse to do so, this license automatically extends to cover use past the revenue threshold.
+This license is free-of-charge while your use of this software has contributed to less than 1,000,000 USD (2019) total revenue in any single year-long period for your company.  When you reach that threshold, the one giving this license will license this software for continued use on fair, reasonable, and nondiscriminatory terms.  If the one giving this license are not available to grant such a license, or refuse to do so, this license automatically extends to cover use past the revenue threshold.
 
 ## Your Company
 
@@ -20,7 +22,7 @@ This license is free-of-charge while your use of this software has contributed t
 
 ## Copyright
 
-Subject to [Commercialization](#commercialization), each contributor licenses you to do everything with this software that would otherwise infringe that contributor's copyright in it.
+Subject to [Commercialization](#commercialization), the one giving this license licenses you to do everything with this software that would otherwise infringe their copyright in it.
 
 ## Notices
 
@@ -32,12 +34,12 @@ If anyone notifies you in writing that you have not complied with [Notices](#not
 
 ## Patent
 
-Subject to [Commercialization](#commercialization), each contributor licenses you to do everything with this software that would otherwise infringe any patent claims they can license or become able to license.
+Subject to [Commercialization](#commercialization), the one giving this license licenses you to do everything with this software that would otherwise infringe any patent claims they can license or become able to license.
 
 ## Reliability
 
-No contributor can revoke this license.
+This license cannot be revoked.
 
 ## No Liability
 
-***As far as the law allows, this software comes as is, without any warranty or condition, and no contributor will be liable to anyone for any damages related to this software or this license, under any kind of legal claim.***
+***As far as the law allows, this software comes as is, without any warranty or condition, and the one person or legal entity giving this license will not be liable to anyone for any damages related to this software or this license, under any kind of legal claim.***
