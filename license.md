@@ -10,9 +10,13 @@ This license gives everyone as much permission to work with this software as pos
 
 In order to receive this license, you must agree to its rules.  The rules of this license are both obligations under that agreement and conditions to your license.  You must not do anything with this software that triggers a rule that you cannot or will not follow.
 
+## Commercialization
+
+This license is free-of-charge while your use of this software has made less than 1,000,000 USD (2019) total revenue for your company.  When you reach that threshold, contributors agree to license this software for continued use on fair, reasonable, and nondiscriminatory terms.
+
 ## Copyright
 
-Each contributor licenses you to do everything with this software that would otherwise infringe that contributor's copyright in it.
+Subject to [Commercialization](#commercialization), each contributor licenses you to do everything with this software that would otherwise infringe that contributor's copyright in it.
 
 ## Notices
 
@@ -24,7 +28,7 @@ If anyone notifies you in writing that you have not complied with [Notices](#not
 
 ## Patent
 
-Each contributor licenses you to do everything with this software that would otherwise infringe any patent claims they can license or become able to license.
+Subject to [Commercialization](#commercialization), each contributor licenses you to do everything with this software that would otherwise infringe any patent claims they can license or become able to license.
 
 ## Reliability
 
