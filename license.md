@@ -12,7 +12,7 @@ In order to receive this license, you must agree to its rules.  The rules of thi
 
 ## Commercialization
 
-This license is free-of-charge while your use of this software has made less than 1,000,000 USD (2019) total revenue for your company.  When you reach that threshold, contributors will license this software for continued use on fair, reasonable, and nondiscriminatory terms.  If contributors are not available to grant such a license, or refuse to do so, this license automatically extends to cover use past the revenue threshold.
+This license is free-of-charge while your use of this software has contributed to less than 1,000,000 USD (2019) total revenue in any single year-long period for your company.  When you reach that threshold, contributors will license this software for continued use on fair, reasonable, and nondiscriminatory terms.  If contributors are not available to grant such a license, or refuse to do so, this license automatically extends to cover use past the revenue threshold.
 
 ## Your Company
 
