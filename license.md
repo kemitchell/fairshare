@@ -14,6 +14,10 @@ In order to receive this license, you must agree to its rules.  The rules of thi
 
 This license is free-of-charge while your use of this software has made less than 1,000,000 USD (2019) total revenue for your company.  When you reach that threshold, contributors agree to license this software for continued use on fair, reasonable, and nondiscriminatory terms.
 
+## Your Company
+
+**Your company** is any legal entity, sole proprietorship, or other kind of organization that you work for, plus all organizations that have control over, are under the control of, or are under common control with that organization.  **Control** means ownership of substantially all the assets of an entity, or the power to direct its management and policies by vote, contract, or otherwise.  Control can be direct or indirect.
+
 ## Copyright
 
 Subject to [Commercialization](#commercialization), each contributor licenses you to do everything with this software that would otherwise infringe that contributor's copyright in it.
